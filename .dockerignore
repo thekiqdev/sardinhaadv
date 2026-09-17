@@ -1,0 +1,17 @@
+.git
+.gitignore
+.output
+.nitro
+.tanstack
+.wrangler
+dist
+node_modules
+*.md
+*.local
+.env
+.env.*
+.vscode
+.idea
+.DS_Store
+Dockerfile
+.dockerignore
